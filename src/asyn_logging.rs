@@ -1,0 +1,7 @@
+struct Buffer {
+
+}
+
+struct AsynLogger {
+
+}
